@@ -1,2 +1,3 @@
 # Java-Web
-Java Servlet, Sessions, Coockies, forms, jdb
+Java Servlet, Sessions, Coockies, forms, jdbc
+Memories.
